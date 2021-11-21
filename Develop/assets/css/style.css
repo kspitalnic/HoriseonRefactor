@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* remove class for header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,12 +19,12 @@ header {
 header h1 {
     display: inline-block;
     font-size: 48px;
-
 }
 
 header span{
     color: #d9dcd6;
 }
+
 header nav{
     padding-top: 15px;
     margin-right: 20px;
@@ -35,13 +36,17 @@ header nav{
 header nav ul li{
     list-style-type: none;
     display:inline;
+    margin-left: 25px;
 }
 
+/* specified which link to format in case add other 
+links to site later that do not seek the same features */
 header nav ul li a{
-    margin-left: 25px;
     color: #ffffff;
     text-decoration: none;
 }
+
+/* Deleted p selector - unnecessary code*/
 
 
 .hero {
