@@ -9,6 +9,8 @@ Project Aims:
 
 Some stratagies utilized to achieve these gails include altering selectors, reducing redundency in the CSS style sheet, and ensuring links work propperly. 
 
-Link to site [linktosite](https://kspitalnic.github.io/HoriseonRefactor/) {target="_blank"}
-<br />
-Link to repository [linktorepository](https://github.com/kspitalnic/HoriseonRefactor){target="_blank"}
+<a href="https://kspitalnic.github.io/HoriseonRefactor/" target="_blank">Link to website</a>
+
+  
+  
+<a href="https://github.com/kspitalnic/HoriseonRefactor" target="_blank">Link to repository</a>
